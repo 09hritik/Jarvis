@@ -1,0 +1,5 @@
+#Ignore virtual environment
+myenv/
+.DS_Store
+__pycache__
+credentials.json
