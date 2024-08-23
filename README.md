@@ -1,4 +1,7 @@
 Project Summary: Interactive Voice-Activated Assistant (Jarvis)
+
+
+
 Objective: Created "Jarvis," an AI-driven assistant capable of voice and text-based interactions, face recognition, and task automation like web searches and media playback.
 
 Key Features:
